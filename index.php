@@ -82,7 +82,7 @@
   </ol>
   <div class="carousel-inner">
     <div class="carousel-item active">
-      <img style="-webkit-user-select: none;margin: auto;cursor: zoom-in;background-color: hsl(0, 0%, 90%);transition: background-color 300ms;" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fmp3.zing.vn%2Fchu-de%2FNhac-Bat-Hu%2FIWZ9ZI77.html&psig=AOvVaw3AiXJsDgnpqbsr_Xbb4M9W&ust=1623905904442000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCJDUooSzm_ECFQAAAAAdAAAAABAP" width="1550" height="450" alt="First slide">
+      <img class="d-block w-100" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fmp3.zing.vn%2Fchu-de%2FNhac-Bat-Hu%2FIWZ9ZI77.html&psig=AOvVaw3AiXJsDgnpqbsr_Xbb4M9W&ust=1623905904442000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCJDUooSzm_ECFQAAAAAdAAAAABAP" width="1550" height="450" alt="Second slide">
     </div>
     <div class="carousel-item">
       <img class="d-block w-100" src="https://photo-zmp3.zadn.vn/covers/3/1/310b98ade43043a069c3d3e9ee0c5766_1515485837.jpg" width="1550" height="450" alt="Second slide">
