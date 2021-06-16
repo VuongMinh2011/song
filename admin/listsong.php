@@ -123,7 +123,7 @@
 			</div>
 		</div>
 		<?php 
-		$conn = mysqli_connect('localhost','root','','php');
+		include("connect.php");
 		$sql="select*from song1";
 		$result= $conn->query($sql);
 		while($song=$result->fetch_object()){

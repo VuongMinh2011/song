@@ -114,7 +114,7 @@
     </div>
 <?php 
 
-$connect = mysqli_connect('localhost','root','','php');
+include("connect.php");
 if ($_SERVER['REQUEST_METHOD']=='POST') {
   $id =$_POST['id'];
   if (empty($_SESSION['cart'][$id])) {

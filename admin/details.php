@@ -93,7 +93,7 @@
   </a>
 </div>
 <?php 
-    $conn = mysqli_connect('localhost','root','','php');
+    include("connect.php");
    if($conn){ echo"";}
     $id=$_GET["id"];
     $sql="select * from song1 Where song1.songid={$id}";

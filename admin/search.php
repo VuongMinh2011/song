@@ -117,7 +117,7 @@
         </div>
       </div>
       <?php 
-            $conn = mysqli_connect('localhost','root','','php');
+            include("connect.php");
            if(isset($_GET['inputSearch'])){ 
          echo "<script>alert('ok)</script>";
          $Search="";
